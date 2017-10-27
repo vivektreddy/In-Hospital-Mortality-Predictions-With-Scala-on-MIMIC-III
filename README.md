@@ -27,7 +27,7 @@ You can also set it up your cluster using the web-dashboard.  You will want to m
 
 ## Code
 
-All the code assumed a uri set to the S3 bucket location of of your MIMIC III files (uncompresssed) and the folder you want the generated files to be written to.  The bucket location in the files is a *private* bucket that you will not have access to.   You just gain access to the MIMIC III data and host it to your own bucket to successfully run these scripts
+All the code assumed a uri set to the S3 bucket location of of your MIMIC III files (uncompresssed) and the folder you want the generated files to be written to.  I did not provide the MIMIC-III data itself. Data must be acquired by requesting access from https://mimic.physionet.org/. Specifically, download the CSVs.The bucket location in the files is a *private* bucket that you will not have access to.   You just gain access to the MIMIC III data and host it to your own bucket to successfully run these scripts
 
 ## Outline of Process to Reproduce Research
 
