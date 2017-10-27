@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is a collection of scripts to reproduce a reserach project for [Georgia Tech's Online Masters in Computer Science (OMSCS)](http://www.omscs.gatech.edu/) course [Big Data For Health Infomatics](http://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics).  The scripts are intended to run in the spark-shell on an [Elastic Map-Reduce(EMR) cluster](https://aws.amazon.com/elasticmapreduce/) hosted in [Amazon Web Services (AWS)](http://aws.amazon.com/) with the [Medical Info-Mart Intensive Care (MIMIC) III data](http://mimic.physionet.org/) hosted in an AWS S3 Bucket.
+"MIMIC-III (**M**edical **I**nformation **M**art for **I**ntensive **C**are III) is a large, freely-available database comprising deidentified health-related data associated with over forty thousand patients who stayed in critical care units of the Beth Israel Deaconess Medical Center between 2001 and 2012."   It includes demographics, vital signs, laboratory tests, medications, clinical notes, and more. 
 
 ## Elastic Map-Reduce on Amazon Web Services
 
